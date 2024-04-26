@@ -15,9 +15,9 @@ Setting it up is easy and free. Here's how:
 You don't even have to register.
 
 Setup the HTML form
-Change your form's action-attribute to this and replace your@email.com with your own email.
+Change your form's action-attribute to this and replace form_id with your own id that's created by Formspree.
 
-http://formspree.io/your@email.com
+(https://formspree.io/f/{form_id})
 
 Submit the form and confirm your email address
 Go to your website and submit the form once. This will send you an email asking to confirm your email address, so that no one can start sending you spam from random websites.
